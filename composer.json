@@ -2,6 +2,7 @@
  "name": "hajesh-local/visual-composer",
  "desciption": "Visual Composer Plugin",
  "type": "wordpress-plugin",
+ "minimum-stability" : "dev",
  "require": {
   "php": ">=5.4",
   "johnpbloch/wordpress": "4.*"
